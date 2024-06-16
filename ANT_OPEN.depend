@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1718486194 source:c:\users\boris\desktop\ANT OPEN 2024\main.cpp
+	<iostream>
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_timer.h"
+
+1718524304 source:c:\users\boris\desktop\ant open 2024\main.cpp
+	<iostream>
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_timer.h"
+
