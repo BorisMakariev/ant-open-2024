@@ -5,9 +5,68 @@
 	"SDL_image.h"
 	"SDL_timer.h"
 
-1718524304 source:c:\users\boris\desktop\ant open 2024\main.cpp
+1718550693 source:c:\users\boris\desktop\ant open 2024\main.cpp
 	<iostream>
 	"SDL.h"
 	"SDL_image.h"
 	"SDL_timer.h"
+	"Object.h"
+	"Meteoroid.h"
+	"Game.h"
+
+1718537582 source:c:\users\boris\desktop\ant open 2024\src\object.cpp
+	"Object.h"
+	"SDL.h"
+	"SDL_image.h"
+	<iostream>
+	<string>
+
+1718531927 c:\users\boris\desktop\ant open 2024\include\object.h
+	<iostream>
+	"SDL.h"
+	"SDL_image.h"
+
+1718551055 source:c:\users\boris\desktop\ant open 2024\src\player.cpp
+	"Player.h"
+	"SDL.h"
+	"SDL_image.h"
+	"Meteoroid.h"
+
+1718551430 c:\users\boris\desktop\ant open 2024\include\player.h
+	"Meteoroid.h"
+	<Object.h>
+
+1718551817 source:c:\users\boris\desktop\ant open 2024\src\meteoroid.cpp
+	"Meteoroid.h"
+
+1718551798 c:\users\boris\desktop\ant open 2024\include\meteoroid.h
+	<Object.h>
+	<windows.h>
+	<iostream>
+	<vector>
+
+1718551803 source:c:\users\boris\desktop\ant open 2024\src\game.cpp
+	"Game.h"
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_timer.h"
+	"Object.h"
+	"Meteoroid.h"
+	"Player.h"
+	<iostream>
+
+1718547467 c:\users\boris\desktop\ant open 2024\include\game.h
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_timer.h"
+	"Object.h"
+	"Meteoroid.h"
+	"Rocket.h"
+	<vector>
+
+1718551137 source:c:\users\boris\desktop\ant open 2024\src\rocket.cpp
+	"Rocket.h"
+
+1718548997 c:\users\boris\desktop\ant open 2024\include\rocket.h
+	<Object.h>
 
